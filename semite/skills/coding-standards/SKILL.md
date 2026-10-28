@@ -1,4 +1,7 @@
-This file for my clean coding standards. While coding, you must follow the instructions below
+--
+name: coding-standards
+description: This file for my clean coding standards. While coding, you must follow the instructions below
+--
 
 - Naming conventions listed below. Contents that not mentioned should be camelCase.
   camelCase: variable, parameter,frontend methods
@@ -33,3 +36,4 @@ This file for my clean coding standards. While coding, you must follow the instr
   Implement CSP to prevent XSS attacks
   Create list activated SSRF protection
   Use antiforgery tokens to implement CSRF
+- Test codes should separated with config added to env files

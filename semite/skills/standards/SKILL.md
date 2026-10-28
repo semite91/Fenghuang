@@ -1,4 +1,8 @@
-This file is for define my coding process standards. Develop the code according to the following commands. Ask questions if you need anything.
+--
+name: standards
+description: This file is for define my coding process standards. Develop the code according to the following commands. Ask questions if you need anything.
+--
+
 
 #DO
 - Before doing anything, create separate agents for the backend, frontend, test, code review processes.
@@ -8,6 +12,7 @@ This file is for define my coding process standards. Develop the code according 
 - Before coding process, plan with Matt Pocock's grill-with-docs skill. If this skill is not loaded, load first.
 - Regarding code quality, prioritize the `coding_standards.md` file that located in the same folder with this file, alongside your own knowledge. 
 - If there are any discrepancies between your knowledge and `coding_standards.md` file, follow the instructions in `coding_standards.md`.
+- Final responses should become from full and complete sentences.
 
 #DONT
 - If you need to change or add codes to multiple files, ask before.
