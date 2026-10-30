@@ -1,0 +1,13 @@
+{
+  "name": "semite",
+  "owner": {
+    "name": "Sami HABİP"
+  },
+  "plugins": [
+    {
+      "name": "semite-standards",
+      "source": "./plugins/semite",
+      "description": "Coding standards and workflow skills for our team"
+    }
+  ]
+}
